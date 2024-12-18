@@ -4,7 +4,7 @@
     <test verbose="2" preserve-order="true" name="/Users/promode/IdeaProjects/APIAutomationFramworkATB9x">
         <groups>
             <run>
-                <include name="qa"></include>
+                <include name="prod"></include>
             </run>
         </groups>
 

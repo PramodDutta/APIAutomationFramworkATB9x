@@ -1,4 +1,6 @@
 package com.thetestingacademy.tests.crud;
 
-public class testCreateBooking {
+public class testCreateToken {
+    // All positive and Negative TC of the Token
+
 }
