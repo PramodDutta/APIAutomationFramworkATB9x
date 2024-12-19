@@ -13,7 +13,7 @@ public class testCreateBooking extends BaseTest {
 
 
     @Owner("Promode")
-    @TmsLink("https://bugz.atlassian.net/jira/software/projects/REQ/boards/1?selectedIssue=REQ-1")
+    @TmsLink("https://google.com")
     @Link(name = "Link to TC", url = "https://bugz.atlassian.net/browse/RBT-4")
     @Issue("JIRA_RBT-4")
     @Description("Verify that POST request is working fine.")
